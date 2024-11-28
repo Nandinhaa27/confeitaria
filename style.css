@@ -16,7 +16,7 @@
 }
 
 body {
-    font-size: 26px; /* Tamanho maior para o título */
+    font-size: 20px; /* Tamanho maior para o título */
     font-family: var(--fonte-principal), sans-serif;
     background-color: var(--cor-de-fundo);
     background-image: url("fundo.png.jpeg"); 
