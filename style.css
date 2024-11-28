@@ -58,7 +58,7 @@ body {
 
 .Doublecakelogo{
     position: absolute;
-    top: 40px; /* Distância do topo da tela */
+    top: 20px; /* Distância do topo da tela */
     left: 200px; /* Distância da esquerda */
     color: #fff;
     height: 80; /* Ajuste a altura conforme necessário */
@@ -66,13 +66,14 @@ body {
 }
 
 .cabeçalho__logo img {
-    width: 100px; /* Tamanho da logo */
+    width: 50px; /* Tamanho da logo */
     height: auto; /* Mantém a proporção */
 }
 
 .cabeçalho_menu {
     display: flex;
     align-items: center; /* Alinha verticalmente os itens */   
+    width: 350px; 
 }
 
 .cabeçalho_menu ul {
@@ -81,7 +82,7 @@ body {
 }
 
 .cabeçalho_menu ul li {
-    margin-left: 20px;  
+    margin-left: 30px;  
 }
 
 .cabeçalho_menu ul li a {
